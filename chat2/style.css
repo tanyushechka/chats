@@ -1,0 +1,48 @@
+#inpText{
+    margin-left: 5%;
+    margin-bottom: 2%;
+    padding: 1.5%;
+}
+
+.request {
+    /*background-color: lightgreen;*/
+}
+
+.response {
+    /*background-color: burlywood;*/
+    margin-left: 40px;
+
+}
+
+ #chat{
+	background-color: rgba(235, 219, 219, 0.5);
+	padding: 3%;
+	width: 90%;
+	margin: auto;
+max-height: 600px;
+overflow: auto;
+scroll: rev
+}
+
+#wrapper{
+	background-color: rgba(255, 237, 224, 0.5);
+	padding: 3%;
+	width: 90%;
+	margin: auto;
+}
+
+.dialogue{
+	background-color: rgba(255, 255, 122, 0.5);
+    /*border: 3px solid red;*/
+	margin-bottom: 3%;
+	padding: 2%;
+}
+
+.media {
+	width: 90%;
+}
+
+/*.media-left{
+	background-color: magenta;
+	height: 20px;
+}
